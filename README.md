@@ -1,6 +1,4 @@
-### Hello, I'm Ju young Moon!  👋
-
-## Languages
+## Hello, I'm Ju young Moon!  👋
 
 <div align=center>
  
@@ -8,6 +6,7 @@
 ![react](https://img.shields.io/badge/-react-blue?style=flat&logo=react)
 ![javascript](https://img.shields.io/badge/-javascript-f7df1e?style=flat&logo=JavaScript&logoColor=white)
 ![styled-compoent](https://img.shields.io/badge/-styled%20component-db7093?style=flat&logo=styled-components&logoColor=white)
+
 </div>
 
 
