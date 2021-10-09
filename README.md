@@ -1,13 +1,11 @@
-## Hello, I'm Ju young Moon!  👋
-
-<div align=center>
+## Hi There 👋
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoonjuyoung1&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![react](https://img.shields.io/badge/-react-blue?style=flat&logo=react)
 ![javascript](https://img.shields.io/badge/-javascript-f7df1e?style=flat&logo=JavaScript&logoColor=white)
 ![styled-compoent](https://img.shields.io/badge/-styled%20component-db7093?style=flat&logo=styled-components&logoColor=white)
 
-</div>
+
 
 
 
