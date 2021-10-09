@@ -11,6 +11,7 @@
 ![html](https://img.shields.io/badge/-HTML5-e34f26?style=flat&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/-CSS3-1572b6?style=flat&logo=css3&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonjuyoung1)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=moonjuyoung1)](https://github.com/anuraghazra/github-readme-stats)
 
 
